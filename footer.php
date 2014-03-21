@@ -19,7 +19,7 @@
 	<footer id="colophon" role="contentinfo">
 		<div id="site-generator">
 			<?php do_action( 'simplex_credits' ); ?>
-			<a href="<?php echo esc_url( __( 'http://wordpress.org/', 'simplex' ) ); ?>" title="<?php esc_attr_e( 'Semantic Personal Publishing Platform', 'simplex' ); ?>" rel="generator"><?php printf( __( 'Powered by %s', 'simplex' ), 'WordPress' ); ?></a> &amp;	<a href="<?php echo esc_url( __( 'http://wpshoppe.com/', 'simplex' ) ); ?>" title="<?php esc_attr_e( 'Minimalist WordPress Themes', 'simplex' ); ?>" rel="generator">simpleX</a>.
+			<a href="<?php echo esc_url( __( 'http://wordpress.org/', 'simplex' ) ); ?>" title="<?php esc_attr_e( 'Semantic Personal Publishing Platform', 'simplex' ); ?>" rel="generator"><?php printf( __( 'Powered by %s', 'simplex' ), 'WordPress' ); ?></a> &amp;	<a href="<?php echo esc_url( __( 'https://github.com/dartarrow/simplyx', 'simplex' ) ); ?>" title="<?php esc_attr_e( 'Minimalist WordPress Themes', 'simplex' ); ?>" rel="generator">simplyX</a>.
 					
 		</div>
 	</footer><!-- #colophon -->
